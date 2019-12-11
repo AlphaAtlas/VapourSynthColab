@@ -21,6 +21,6 @@ Grab models for specific kinds of content here, or train your own:
 * https://upscale.wiki/wiki/Model_Database
 * https://colab.research.google.com/drive/1ygwTH7nN66UEUjD87u8kdFAGoVBzL-Bt
 
-For help, just post an issue, or ask in the Game Upscale or Animation Upscale Discords
+For help, just post an issue, or ask in the Game Upscale or Animation Upscale Discords.
 * https://discord.gg/cpAUpDK
 * https://discord.gg/sGH8kKc
