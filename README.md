@@ -1,6 +1,6 @@
 # VapourSynthColab
 
-A Google Colab Environment set up for both conventional and machine learning-based video processing. Run ESRGAN or MXNet models, OpenCL and CUDA filters, and CPU filters on video frames in VapourSynth scripts instead of reading and writing a bunch of 8-bit pngs, or use VapourSynth filters to pre/post process videos for other ML Colab projects, and do it all in the cloud. 
+A Google Colab Environment set up for both conventional and machine learning-based video processing. Run ESRGAN or MXNet models, OpenCL and CUDA filters, and CPU filters on video frames in VapourSynth scripts instead of reading and writing a bunch of 8-bit pngs, or use VapourSynth filters to pre/post process videos for other ML Colab projects, and do it all in the cloud for free. 
 
 ![Colab1.png](https://raw.githubusercontent.com/AlphaAtlas/VSSH-Wiki-Images/master/images/Colab1.PNG)
 ![Colab2.png](https://raw.githubusercontent.com/AlphaAtlas/VSSH-Wiki-Images/master/images/Colab2.PNG)
@@ -20,7 +20,7 @@ For basics on VapourSynth and super resolution filters, see the wiki (and links 
 Browse through VS plugins and scripts here, search for "vapoursynth" on github, or look through the "VapourSynthImports" folder and VapourSynth's imported plugins:
 * http://vsdb.top/
 
-I highly recommend stabilizing ESRGAN output with a temporal filter, or using a dedicated video model from another repo. Also, keep in mind that Colab's CPU is very slow, so use GPU accelerated filters wherever possible in scripts with heavy CPU filters.
+I highly recommend stabilizing ESRGAN output with a temporal filter, or using a dedicated video model from another repo. Also, keep in mind that Colab's CPU is very slow, and that sessions are limited to 12 hours, so use GPU accelerated filters wherever possible in scripts with heavy CPU filters, and write your processesed videos to Google Drive or Nextcloud.
 
 Grab models for specific kinds of content here, or train your own:
 * https://upscale.wiki/wiki/Model_Database
