@@ -15,12 +15,12 @@ Basic usage:
 
 For basics on VapourSynth and super resolution filters, see the wiki (and links to other guides) here:
 * https://github.com/AlphaAtlas/VapourSynth-Super-Resolution-Helper/wiki/VapourSynth-Basics
-I highly recommend stabilizing ESRGAN output with a temporal filter, to reduce jitter, or using a dedicated Video model from another repo. Also, keep in mind that Colab's CPU is very slow, so use GPU accelerated filters wherever possible.
+I highly recommend stabilizing ESRGAN output with a temporal filter, to reduce jitter, or using a dedicated video model from another repo. Also, keep in mind that Colab's CPU is very slow, so use GPU accelerated filters wherever possible in large scripts.
 
-Grab models for specific kinds of content here, or train your own!
+Grab models for specific kinds of content here, or train your own:
 * https://upscale.wiki/wiki/Model_Database
 * https://colab.research.google.com/drive/1ygwTH7nN66UEUjD87u8kdFAGoVBzL-Bt
 
-For help, just throw up an issue, or ask in the Game Upscale or Animation Upscale Discords
+For help, just post an issue, or ask in the Game Upscale or Animation Upscale Discords
 * https://discord.gg/cpAUpDK
 * https://discord.gg/sGH8kKc
