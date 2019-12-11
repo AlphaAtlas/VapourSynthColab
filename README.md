@@ -2,8 +2,8 @@
 
 A Google Colab Environment set up for both conventional and machine learning video processing. Run ESRGAN or MXNet models, OpenCL and CUDA filters, and CPU filters on floating point video frames in VapourSynth scripts instead of writing a bunch of 8-bit pngs, or use VapourSynth filters to pre/post process videos for other ML projects.
 
-!(https://raw.githubusercontent.com/AlphaAtlas/VSSH-Wiki-Images/master/images/Colab1.PNG)
-!(https://raw.githubusercontent.com/AlphaAtlas/VSSH-Wiki-Images/master/images/Colab2.PNG)
+![Colab1.png](https://raw.githubusercontent.com/AlphaAtlas/VSSH-Wiki-Images/master/images/Colab1.PNG)
+![Colab2.png](https://raw.githubusercontent.com/AlphaAtlas/VSSH-Wiki-Images/master/images/Colab2.PNG)
 
 Basic usage:
 * Log in to Google, open the notebook: https://colab.research.google.com/github/AlphaAtlas/VapourSynthColab/blob/master/VapourSynthColab.ipynb
