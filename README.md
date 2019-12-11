@@ -16,6 +16,7 @@ Basic usage:
 For basics on VapourSynth and super resolution filters, see the wiki (and links to other guides) here:
 * http://www.vapoursynth.com/doc/
 * https://github.com/AlphaAtlas/VapourSynth-Super-Resolution-Helper/wiki/VapourSynth-Basics
+
 I highly recommend stabilizing ESRGAN output with a temporal filter, or using a dedicated video model from another repo. Also, keep in mind that Colab's CPU is very slow, so use GPU accelerated filters wherever possible in scripts with heavy CPU filters.
 
 Browse through VS plugins and scripts here, search for "vapoursynth" on github, or look through the "VapourSynthImports" folder and VapourSynth's imported plugins:
